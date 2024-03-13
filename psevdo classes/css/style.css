@@ -1,0 +1,18 @@
+button:hover{
+    background-color: black;
+}
+a:hover{
+    background-color: aqua;
+    color: red;
+}
+.cba:visited{
+    color: red;
+}
+#abc:visited{
+    color: yellow;
+    background-color: red;
+}
+.abc:checked{
+    color: blueviolet;
+    background-color: green;
+}

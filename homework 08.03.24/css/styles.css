@@ -1,0 +1,27 @@
+.first-day:hover{
+    background-color: #77c5c1;
+}
+.lesson:nth-child(even){
+    background-color: #788be2;
+}
+.lesson:nth-child(odd){
+    color: #da9091;
+}
+.second-day:link{
+color: #872935;
+}
+
+.easy:nth-child(3n + 1){
+    background-color: #245f1f;
+    color: #6eb1e4;
+    font-size: larger;
+}
+.third-day:visited{
+    background-color: darkorange;
+    color: lawngreen;
+}
+.abc:first-of-type{
+    background-color: darksalmon;
+    color: maroon;
+    font-size: x-large;
+}
